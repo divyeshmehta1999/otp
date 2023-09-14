@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902703168376",
+    "project_id": "otptest-368da",
+    "storage_bucket": "otptest-368da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902703168376:android:2bff35b85b4cc70ab3e68d",
+        "android_client_info": {
+          "package_name": "com.example.otptestdelete"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRmxvCc6W7V80dnq02hlQ8pA1aCuG3oWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
